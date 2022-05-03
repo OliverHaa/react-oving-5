@@ -1,4 +1,5 @@
 /.idea/
 /node_modules/
-/server/node_modules/
 /Øving 5.iml
+dist/
+.parcel-cache/
